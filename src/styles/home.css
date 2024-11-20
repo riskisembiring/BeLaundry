@@ -1,0 +1,61 @@
+.home-container {
+    padding: 16px;
+    background-color: #f5f7fa;
+  }
+  
+  .balance-card {
+    background-color: #f04c4c;
+    color: #fff;
+    margin-bottom: 16px;
+    border-radius: 8px;
+  }
+  
+  .welcome-message {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .balance-amount {
+    color: #ffffff;
+  }
+  
+  .previous-order-card,
+  .most-ordered-card {
+    margin-bottom: 16px;
+  }
+  
+  .order-info,
+  .order-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .order-image,
+  .product-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
+  .invoice-button {
+    margin-left: auto;
+  }
+  
+  .latest-products-section .product-card {
+    text-align: center;
+  }
+  
+  .product-info {
+    margin-top: 8px;
+  }
+
+  .quantity-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+  }
+  
